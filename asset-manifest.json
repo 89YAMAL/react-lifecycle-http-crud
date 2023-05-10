@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-lifecycle-http-crud/static/css/main.c65b28d3.css",
+    "main.js": "/react-lifecycle-http-crud/static/js/main.c7170dbb.js",
+    "static/js/787.9e5f267a.chunk.js": "/react-lifecycle-http-crud/static/js/787.9e5f267a.chunk.js",
+    "index.html": "/react-lifecycle-http-crud/index.html",
+    "main.c65b28d3.css.map": "/react-lifecycle-http-crud/static/css/main.c65b28d3.css.map",
+    "main.c7170dbb.js.map": "/react-lifecycle-http-crud/static/js/main.c7170dbb.js.map",
+    "787.9e5f267a.chunk.js.map": "/react-lifecycle-http-crud/static/js/787.9e5f267a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c65b28d3.css",
+    "static/js/main.c7170dbb.js"
+  ]
+}
